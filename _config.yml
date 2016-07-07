@@ -9,8 +9,8 @@
 title: Ora Maritima
 email: oramaritima@brandt.id.au
 description: A collection of materials to support Ora Maritima A Latin Story for Beginners with Grammar and Exercises by E. A. Sonnenschein, D.Litt., Oxon.
-baseurl: ""
-url: http://www.brandt.id.au/oramaritima
+baseurl: "/oramaritima"
+url: ""
 twitter_username: veromarybrrr
 github_username:  veromary
 
