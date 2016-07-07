@@ -8,9 +8,11 @@ Ora Maritima is a Latin text from 1908.
 
 You can download a pretty good scanned copy [from the Internet Archive here](https://archive.org/details/cu31924031202850).  If you have access to a proper computer with command line tools like pdfjam and pdfbook you can set it up to print ready to comb bind.
 
-You can hear the story read aloud by [Evan der Millner (Mollendarius)](http://latinum.org.uk):
+You can hear the story read aloud by [Evan der Millner (Mollendarius)](http://latinum.org.uk) - available to buy and download [via his payloadz shop](http://store.payloadz.com/go/?id=991124)
 
 <iframe width="654" height="391" src="https://www.youtube.com/embed/Yalv1qqD-BM" frameborder="0" allowfullscreen></iframe>
+
+As a sidenote, Evan der Millner is from South Africa just like the narrator in Ora Maritima.
 
 There's even a [sequel called Pro Patria](https://archive.org/details/cu31924031167160)
 
