@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Making a start with §1"
+date:   2016-07-07 20:20:23 +1000
+---
+
+I. Ora Maritima - The Sea Coast
+
+(First Declension of Nouns and Adjectives, together with the Present Indicative of _sum_ and of the First Conjugation)
+
+Preparation page 60
+----------
+
+Here's a comma separated list of vocabulary in case you can use it in a program like [Anki](http://ankisrs.net) or [Quizlet](http://quizlet.com).
+
+```
+quam bella,how beautiful
+est,is
+ōra maritima,the sea-shore
+nōn procul,not far
+ab ōra maritimā,from the sea-shore
+villa,a country-house
+in villā,in the country-house
+amita mea,my aunt
+habitat,dwells, lives
+et,and
+ego habitō,I dwell, I am staying
+cum amitā,with my aunt
+nunc,now
+ante iānuam,before the door
+villae,of the country-house
+ārea,an open space
+in āreā,in the open space
+castanea,a chestnut-tree
+ubi,where
+luscinia,a nightingale
+interdum,sometimes
+cantat,sings
+sub umbrā,under the shade
+castaneae,of the chestnut-tree
+ancilla,a maid-servant
+cēnam parat,prepares supper
+amō ōram,I love the shore
+amō villam bellam,I love the pretty country-house
+```
+
+Here is a ready-made [Quizlet set](https://quizlet.com/_2dze7g)
+
+Answers to Drill Exercises starting page 101.
+---------------
+
+The country house is pretty.
+
+The chestnut tree is pretty.
+
+The maid lives in the country house.
+
+Not far from the sea shore is the country house.
+
+I live not far from the sea shore.
+
+Under the chestnut I sometimes sing.
+
+---
+
+Quam bella est castanea!
+
+Non procul a castanea luscinia cantat.
+
+Non procul a villa est ora maritima.
+
+Non procul a ora maritima est castanea.
+
+In villa nunc habito.
+
+---
+
+My aunt sometimes sings under the shade of the chestnut.
+
+With my aunt under the shade of the chestnut I sometimes sing.
+
+My aunt's maid lives in my aunt's villa.
+
+The door is not far from the sea shore.
+
+---
+
+Villa amitae meae bella est.
+
+Janua villae non procul est ab ora maritima.
+
+Ubi est luscinia?
+
+Luscinia interdum sub umbra castaneae cantat.
+
+Luscinia in castanea non habitat.
+
+
