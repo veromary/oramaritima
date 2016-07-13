@@ -33,3 +33,15 @@ The sailors' boats are sometimes big.
 The anchors of the big boats are big.
 
 The anchors of the not big boats are not bigs.
+
+---
+
+Scaphae nautarum non procul ab janua villae.
+
+Ancorae scapharum in arena sunt.
+
+Ancorae et catenae ancorarum in arena sunt.
+
+Incolae villarum nautas non sunt.
+
+Audacia incolarum orae maritimae magna est.
